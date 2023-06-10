@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital@1&family=Geologica&display=swap');
+
+
+.text-center {
+    text-align: center;
+}
+
+
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+
+
+}
+
+.flex-col {
+    flex-direction: column;
+
+}
+
+.item-center {
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.name {
+    color: rgb(240, 240, 79);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.edit {
+    color: aliceblue;
+}
